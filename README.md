@@ -1,17 +1,17 @@
 # apichochla
 
 ## Jersey
-## Spring Rest Template -chetan
+## Spring Rest Template -c
 ## Api Exception Handling. 
 ## Sercurity 
-### (authentication)- Dipan
-### (authorisation) - dipan
+### (authentication)- D
+### (authorisation) - d
 ## Hystrix. 
 ## SSO 
 ## SSL
 ## API Headers
-## CORS - Neelesh
+## CORS - N
 ## how to make API more secure. 
-## Spring Boot Basics. -Neelesh
+## Spring Boot Basics. -N
 ## Domain Driven Design
 ## Microservice Factors.
