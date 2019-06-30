@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.spring.boot.oAuth2.demo</groupId>
-    <artifactId>spring-boot-oAuth-Demo</artifactId>
+    <artifactId>spring-boot-oAuth-Demo-manual-client</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <parent>
